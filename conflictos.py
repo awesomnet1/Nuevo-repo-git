@@ -1,5 +1,5 @@
-def saludar(name):
-    print(f"hola {name}")
+def saludar(name, apellido):
+    print(f"hola {name} {apellido}")
     
 
-saludar("penes3")
+saludar("penes3", "holiwis")
